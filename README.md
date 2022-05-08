@@ -28,6 +28,9 @@ assets as well as maximize their sales profits.
 Research Questions: 
 
 *How to increase sales performance for each store type?*
+
 i.  How is each store type performing over the four years?
+
 ii. Which customer segment should be prioritized in each store type?
+
 iii. Which product category should be prioritized in each store type?
