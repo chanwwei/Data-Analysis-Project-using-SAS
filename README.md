@@ -34,3 +34,14 @@ i.  How is each store type performing over the four years?
 ii. Which customer segment should be prioritized in each store type?
 
 iii. Which product category should be prioritized in each store type?
+
+Project3: Covid-19 Malaysia Analysis
+
+Project Aims:
+
+i.	To understand the situation of COVID-19 in Malaysia
+
+ii.	To study the effectiveness of vaccine in reducing COVID-19 cases in Malaysia
+
+iii. To study the cause for the trend of R0 in Malaysia.
+
