@@ -9,4 +9,4 @@ cinema operators which are genre preference of each age-group and the quarterly 
 
 **ii. What are the top rated movies for each quarter?**
 
-These findings are useful for the cinema operators to know which movie ranks top for each quarter of the year and facilitate decision making in determining which type of movie genres to be screened in the future for optimum ticket sales performances
+These findings are useful for the cinema operators to know which movie ranks top for each quarter of the year and facilitate decision making in determining which type of movie genres to be screened in the future for optimum ticket sales performances.
