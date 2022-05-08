@@ -41,9 +41,9 @@ The ever-rising COVID-19 new and death cases in Malaysia has caught the governme
 
 Research Objective:
 
-i.	To understand the situation of COVID-19 in Malaysia
+*i.	To understand the situation of COVID-19 in Malaysia*
 
-ii.	To study the effectiveness of vaccine in reducing COVID-19 cases in Malaysia
+*ii.	To study the effectiveness of vaccine in reducing COVID-19 cases in Malaysia*
 
-iii. To study the cause for the trend of R0 in Malaysia.
+*iii. To study the cause for the trend of R0 in Malaysia*
 
