@@ -4,9 +4,9 @@ Project 1: Movie Analysis
 
 Project Aims: 
 
-This projects works on identidify 2 areas of interest which could be beneficial to the 
-cinema operators which are genre preference of each age-group and the quarterly analysis of movie ratings. To be more specific, following research questions has been formed:
+This projects works on identidify 2 areas of interest which could be beneficial to the cinema operators which are genre preference of each age-group and the quarterly analysis of movie ratings. 
 
+Research Questions:
 **i. What are the top 3 movie genres preference of each age group?**
 
 **ii. What are the top rated movies for each quarter?**
@@ -24,8 +24,9 @@ needs.
 - The insights provided in the analysis allows the retail organization to strategize and focus on important business 
 assets as well as maximize their sales profits.
 
-Main Research Question: **How to increase sales performance for each store type?**
-Sub Research Question: 
+Research Question: 
+
+**How to increase sales performance for each store type?**
 i.  How is each store type performing over the four years?
 ii. Which customer segment should be prioritized in each store type?
 iii. Which product category should be prioritized in each store type?
