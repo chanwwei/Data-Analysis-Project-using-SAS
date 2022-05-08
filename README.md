@@ -35,7 +35,7 @@ ii. Which customer segment should be prioritized in each store type?
 
 iii. Which product category should be prioritized in each store type?
 
-Project3: Covid-19 Malaysia Analysis
+**Project 3: Covid-19 Malaysia Analysis**
 
 The ever-rising COVID-19 new and death cases in Malaysia has caught the government and public’s attention, hoping that such a situation can be improved. Therefore, this work is to conduct deep analysis on covid data to assist in forecasting future outbreaks of cases with descriptive and predictive analysis on data and strategies to reduce the ever-rising of COVID-19 cases.
 
