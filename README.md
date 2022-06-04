@@ -4,7 +4,7 @@
 
 Project Aims: 
 
-This project works on identidify 2 areas of interest which could be beneficial to the cinema operators which are genre preference of each age-group and the quarterly analysis of movie ratings.These findings are useful for the cinema operators to know which movie ranks top for each quarter of the year and facilitate decision making in determining which type of movie genres to be screened in the future for optimum ticket sales performances.
+This project works on identidify 2 areas of interest which could be beneficial to the cinema operators. They are genre preference of each age-group and the quarterly analysis of movie ratings.These findings are useful for the cinema operators to know which movie ranks top for each quarter of the year and facilitate decision making in determining which type of movie genres to be screened in the future for optimum ticket sales performances.
 
 Research Questions:
 
